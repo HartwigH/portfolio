@@ -30,7 +30,7 @@ const Example = (props) => {
   return (
     <div>
       <Navbar className="port-navbar port-default absolute" color="transparent" dark light expand="md">
-        <NavbarBrand className="port-navbar-brand" href="/">Hartwig Hiiemäe</NavbarBrand>
+        <NavbarBrand className="port-navbar-brand" href="/">Welcome!</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
